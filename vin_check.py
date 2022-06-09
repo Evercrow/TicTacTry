@@ -9,3 +9,4 @@ def viktory(list_arg):
     else:
         res = False
         return res
+
